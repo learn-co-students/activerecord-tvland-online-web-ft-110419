@@ -8,6 +8,9 @@ logs
 *.log
 npm-debug.log*
 
+# Database
+*.db
+
 # Runtime data
 pids
 *.pid
